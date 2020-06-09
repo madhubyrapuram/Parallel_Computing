@@ -1,1 +1,2 @@
-# EDA1
+### Topology Optimization of a beam using parallel computing
+This project represents and provides an insight into a parallel and flexible platform developed for structural topology optimization using the Portable and Extendable Toolkit for Scientifc Computing (PETSc) and visualization using Paraview. The presented framework solves the minimum compliance problem on structured grids using standard FEM principles,sensitivity analysis,density filter and optimality criterion optimizer. The capabilities of the platform are exemplified and analyzed with parallel computing on a cluster.
